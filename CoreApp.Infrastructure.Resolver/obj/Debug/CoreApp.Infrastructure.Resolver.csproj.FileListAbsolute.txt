@@ -1,0 +1,119 @@
+C:\Marcos\Estudos\AplicationBase\CoreApp.Infrastructure.Resolver\obj\Debug\CoreApp.Infrastructure.Resolver.csprojResolveAssemblyReference.cache
+C:\Marcos\Estudos\AplicationBase\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Infrastructure.Resolver.dll.config
+C:\Marcos\Estudos\AplicationBase\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Infrastructure.Resolver.dll
+C:\Marcos\Estudos\AplicationBase\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Infrastructure.Resolver.pdb
+C:\Marcos\Estudos\AplicationBase\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Data.Entities.dll
+C:\Marcos\Estudos\AplicationBase\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Data.Repositories.dll
+C:\Marcos\Estudos\AplicationBase\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Infrastructure.BL.dll
+C:\Marcos\Estudos\AplicationBase\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Interfaces.BL.dll
+C:\Marcos\Estudos\AplicationBase\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Interfaces.Data.dll
+C:\Marcos\Estudos\AplicationBase\CoreApp.Infrastructure.Resolver\bin\Debug\EntityFramework.dll
+C:\Marcos\Estudos\AplicationBase\CoreApp.Infrastructure.Resolver\bin\Debug\EntityFramework.SqlServer.dll
+C:\Marcos\Estudos\AplicationBase\CoreApp.Infrastructure.Resolver\bin\Debug\SimpleInjector.dll
+C:\Marcos\Estudos\AplicationBase\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Data.Entities.pdb
+C:\Marcos\Estudos\AplicationBase\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Data.Entities.dll.config
+C:\Marcos\Estudos\AplicationBase\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Data.Repositories.pdb
+C:\Marcos\Estudos\AplicationBase\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Data.Repositories.dll.config
+C:\Marcos\Estudos\AplicationBase\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Infrastructure.BL.pdb
+C:\Marcos\Estudos\AplicationBase\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Interfaces.BL.pdb
+C:\Marcos\Estudos\AplicationBase\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Interfaces.Data.pdb
+C:\Marcos\Estudos\AplicationBase\CoreApp.Infrastructure.Resolver\bin\Debug\EntityFramework.xml
+C:\Marcos\Estudos\AplicationBase\CoreApp.Infrastructure.Resolver\bin\Debug\EntityFramework.SqlServer.xml
+C:\Marcos\Estudos\AplicationBase\CoreApp.Infrastructure.Resolver\bin\Debug\SimpleInjector.xml
+C:\Marcos\Estudos\AplicationBase\CoreApp.Infrastructure.Resolver\obj\Debug\CoreApp.Infrastructure.Resolver.dll
+C:\Marcos\Estudos\AplicationBase\CoreApp.Infrastructure.Resolver\obj\Debug\CoreApp.Infrastructure.Resolver.pdb
+C:\Projetos\BoxMotion\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Infrastructure.Resolver.dll.config
+C:\Projetos\BoxMotion\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Infrastructure.Resolver.dll
+C:\Projetos\BoxMotion\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Infrastructure.Resolver.pdb
+C:\Projetos\BoxMotion\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Data.Entities.dll
+C:\Projetos\BoxMotion\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Data.Repositories.dll
+C:\Projetos\BoxMotion\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Infrastructure.BL.dll
+C:\Projetos\BoxMotion\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Interfaces.BL.dll
+C:\Projetos\BoxMotion\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Interfaces.Data.dll
+C:\Projetos\BoxMotion\CoreApp.Infrastructure.Resolver\bin\Debug\EntityFramework.dll
+C:\Projetos\BoxMotion\CoreApp.Infrastructure.Resolver\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos\BoxMotion\CoreApp.Infrastructure.Resolver\bin\Debug\SimpleInjector.dll
+C:\Projetos\BoxMotion\CoreApp.Infrastructure.Resolver\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Projetos\BoxMotion\CoreApp.Infrastructure.Resolver\bin\Debug\MySql.Data.dll
+C:\Projetos\BoxMotion\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Data.Entities.pdb
+C:\Projetos\BoxMotion\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Data.Repositories.pdb
+C:\Projetos\BoxMotion\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Infrastructure.BL.pdb
+C:\Projetos\BoxMotion\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Interfaces.BL.pdb
+C:\Projetos\BoxMotion\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Interfaces.Data.pdb
+C:\Projetos\BoxMotion\CoreApp.Infrastructure.Resolver\bin\Debug\EntityFramework.xml
+C:\Projetos\BoxMotion\CoreApp.Infrastructure.Resolver\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos\BoxMotion\CoreApp.Infrastructure.Resolver\bin\Debug\SimpleInjector.xml
+C:\Projetos\BoxMotion\CoreApp.Infrastructure.Resolver\obj\Debug\CoreApp.Infrastructure.Resolver.csprojResolveAssemblyReference.cache
+C:\Projetos\BoxMotion\CoreApp.Infrastructure.Resolver\obj\Debug\CoreApp.Infrastructure.Resolver.dll
+C:\Projetos\BoxMotion\CoreApp.Infrastructure.Resolver\obj\Debug\CoreApp.Infrastructure.Resolver.pdb
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Infrastructure.Resolver.dll
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Infrastructure.Resolver.pdb
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Data.Entities.dll
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Infrastructure.BL.dll
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Interfaces.BL.dll
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Interfaces.Data.dll
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.Resolver\bin\Debug\EntityFramework.dll
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.Resolver\bin\Debug\EntityFramework.SqlServer.dll
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.Resolver\bin\Debug\SimpleInjector.dll
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Data.Entities.pdb
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Infrastructure.BL.pdb
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Interfaces.BL.pdb
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Interfaces.Data.pdb
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.Resolver\bin\Debug\EntityFramework.xml
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.Resolver\bin\Debug\EntityFramework.SqlServer.xml
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.Resolver\bin\Debug\SimpleInjector.xml
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.Resolver\obj\Debug\CoreApp.Infrastructure.Resolver.csprojResolveAssemblyReference.cache
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.Resolver\obj\Debug\CoreApp.Infrastructure.Resolver.dll
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.Resolver\obj\Debug\CoreApp.Infrastructure.Resolver.pdb
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Infrastructure.Identity.dll
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.Resolver\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.Resolver\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Infrastructure.Identity.pdb
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.Resolver\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.Resolver\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Data.Repositories.dll
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Data.Repositories.pdb
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.Resolver\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.Resolver\bin\Debug\MySql.Data.dll
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Infrastructure.Resolver.dll
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Infrastructure.Resolver.pdb
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Data.Entities.dll
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Data.Repositories.dll
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Infrastructure.BL.dll
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Interfaces.BL.dll
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Interfaces.Data.dll
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Infrastructure.Resolver\bin\Debug\EntityFramework.dll
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Infrastructure.Resolver\bin\Debug\SimpleInjector.dll
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Data.Entities.pdb
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Data.Repositories.pdb
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Infrastructure.BL.pdb
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Interfaces.BL.pdb
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Interfaces.Data.pdb
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Infrastructure.Resolver\bin\Debug\EntityFramework.xml
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Infrastructure.Resolver\bin\Debug\SimpleInjector.xml
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Infrastructure.Resolver\obj\Debug\CoreApp.Infrastructure.Resolver.csprojResolveAssemblyReference.cache
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Infrastructure.Resolver\obj\Debug\CoreApp.Infrastructure.Resolver.dll
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Infrastructure.Resolver\obj\Debug\CoreApp.Infrastructure.Resolver.pdb
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Infrastructure.Resolver\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Infrastructure.Resolver\bin\Debug\MySql.Data.dll
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Infrastructure.Resolver.dll
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Infrastructure.Resolver.pdb
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Data.Entities.dll
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Data.Repositories.dll
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Infrastructure.BL.dll
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Interfaces.BL.dll
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Interfaces.Data.dll
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Infrastructure.Resolver\bin\Debug\EntityFramework.dll
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Infrastructure.Resolver\bin\Debug\SimpleInjector.dll
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Infrastructure.Resolver\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Infrastructure.Resolver\bin\Debug\MySql.Data.dll
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Data.Entities.pdb
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Data.Repositories.pdb
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Infrastructure.BL.pdb
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Interfaces.BL.pdb
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Infrastructure.Resolver\bin\Debug\CoreApp.Interfaces.Data.pdb
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Infrastructure.Resolver\bin\Debug\EntityFramework.xml
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Infrastructure.Resolver\bin\Debug\SimpleInjector.xml
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Infrastructure.Resolver\obj\Debug\CoreApp.Infrastructure.Resolver.csprojResolveAssemblyReference.cache
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Infrastructure.Resolver\obj\Debug\CoreApp.Infrastructure.Resolver.dll
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Infrastructure.Resolver\obj\Debug\CoreApp.Infrastructure.Resolver.pdb

@@ -1,0 +1,28 @@
+﻿@{
+    ViewBag.Title = "Home";
+}
+
+<nav class="navbar navbar-default">
+    <div class="container-fluid">
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            
+            <div class="navbar-form navbar-left">
+                <div class="form-group">
+                    <input id="txFind" type="text" class="form-control" placeholder="Search">
+                </div>
+            </div>
+            <div class="navbar-form navbar-left">
+                <button id="btRefresh" type="submit" class="btn btn-success"><span class="glyphicon glyphicon-refresh"></span> Refresh</button>
+            </div>
+        </div>
+    </div>
+</nav>
+
+<div class="row" onload="">
+    <div id="map" style="min-height:450px;"></div>
+</div>
+
+@section Scripts {
+    <script src="https://code.jquery.com/ui/jquery-ui-git.js"></script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAB32_JOdTCCCfYgba8PWxpm0l7p7Eql_U&callback=Maps.get"></script>
+}

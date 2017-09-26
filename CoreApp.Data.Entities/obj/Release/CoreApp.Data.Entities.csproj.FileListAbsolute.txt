@@ -1,0 +1,12 @@
+C:\Repositorios\mvp-app\CoreApp.Data.Entities\bin\Release\CoreApp.Data.Entities.dll
+C:\Repositorios\mvp-app\CoreApp.Data.Entities\bin\Release\CoreApp.Data.Entities.pdb
+C:\Repositorios\mvp-app\CoreApp.Data.Entities\bin\Release\EntityFramework.dll
+C:\Repositorios\mvp-app\CoreApp.Data.Entities\bin\Release\EntityFramework.SqlServer.dll
+C:\Repositorios\mvp-app\CoreApp.Data.Entities\bin\Release\MySql.Data.dll
+C:\Repositorios\mvp-app\CoreApp.Data.Entities\bin\Release\MySql.Data.Entity.EF6.dll
+C:\Repositorios\mvp-app\CoreApp.Data.Entities\bin\Release\System.Data.Common.dll
+C:\Repositorios\mvp-app\CoreApp.Data.Entities\bin\Release\EntityFramework.xml
+C:\Repositorios\mvp-app\CoreApp.Data.Entities\bin\Release\EntityFramework.SqlServer.xml
+C:\Repositorios\mvp-app\CoreApp.Data.Entities\obj\Release\CoreApp.Data.Entities.csprojResolveAssemblyReference.cache
+C:\Repositorios\mvp-app\CoreApp.Data.Entities\obj\Release\CoreApp.Data.Entities.dll
+C:\Repositorios\mvp-app\CoreApp.Data.Entities\obj\Release\CoreApp.Data.Entities.pdb

@@ -1,0 +1,61 @@
+C:\Marcos\Estudos\AplicationBase\Seed.Interfaces.BL\obj\Debug\CoreApp.Interfaces.BL.csprojResolveAssemblyReference.cache
+C:\Marcos\Estudos\AplicationBase\Seed.Interfaces.BL\bin\Debug\CoreApp.Interfaces.BL.dll
+C:\Marcos\Estudos\AplicationBase\Seed.Interfaces.BL\bin\Debug\CoreApp.Interfaces.BL.pdb
+C:\Marcos\Estudos\AplicationBase\Seed.Interfaces.BL\bin\Debug\CoreApp.Infrastructure.Models.dll
+C:\Marcos\Estudos\AplicationBase\Seed.Interfaces.BL\bin\Debug\CoreApp.Infrastructure.Models.pdb
+C:\Marcos\Estudos\AplicationBase\Seed.Interfaces.BL\obj\Debug\CoreApp.Interfaces.BL.dll
+C:\Marcos\Estudos\AplicationBase\Seed.Interfaces.BL\obj\Debug\CoreApp.Interfaces.BL.pdb
+C:\Marcos\Estudos\AplicationBase\CoreApp.Interfaces.BL\bin\Debug\CoreApp.Interfaces.BL.dll
+C:\Marcos\Estudos\AplicationBase\CoreApp.Interfaces.BL\bin\Debug\CoreApp.Interfaces.BL.pdb
+C:\Marcos\Estudos\AplicationBase\CoreApp.Interfaces.BL\obj\Debug\CoreApp.Interfaces.BL.csprojResolveAssemblyReference.cache
+C:\Marcos\Estudos\AplicationBase\CoreApp.Interfaces.BL\obj\Debug\CoreApp.Interfaces.BL.dll
+C:\Marcos\Estudos\AplicationBase\CoreApp.Interfaces.BL\obj\Debug\CoreApp.Interfaces.BL.pdb
+C:\Marcos\Estudos\AplicationBase\CoreApp.Interfaces.BL\bin\Debug\CoreApp.Data.Entities.dll
+C:\Marcos\Estudos\AplicationBase\CoreApp.Interfaces.BL\bin\Debug\EntityFramework.dll
+C:\Marcos\Estudos\AplicationBase\CoreApp.Interfaces.BL\bin\Debug\CoreApp.Data.Entities.pdb
+C:\Marcos\Estudos\AplicationBase\CoreApp.Interfaces.BL\bin\Debug\CoreApp.Data.Entities.dll.config
+C:\Marcos\Estudos\AplicationBase\CoreApp.Interfaces.BL\bin\Debug\EntityFramework.xml
+C:\Projetos\BoxMotion\CoreApp.Interfaces.BL\bin\Debug\CoreApp.Interfaces.BL.dll
+C:\Projetos\BoxMotion\CoreApp.Interfaces.BL\bin\Debug\CoreApp.Interfaces.BL.pdb
+C:\Projetos\BoxMotion\CoreApp.Interfaces.BL\bin\Debug\CoreApp.Data.Entities.dll
+C:\Projetos\BoxMotion\CoreApp.Interfaces.BL\bin\Debug\EntityFramework.dll
+C:\Projetos\BoxMotion\CoreApp.Interfaces.BL\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Projetos\BoxMotion\CoreApp.Interfaces.BL\bin\Debug\MySql.Data.dll
+C:\Projetos\BoxMotion\CoreApp.Interfaces.BL\bin\Debug\CoreApp.Data.Entities.pdb
+C:\Projetos\BoxMotion\CoreApp.Interfaces.BL\bin\Debug\EntityFramework.xml
+C:\Projetos\BoxMotion\CoreApp.Interfaces.BL\obj\Debug\CoreApp.Interfaces.BL.csprojResolveAssemblyReference.cache
+C:\Projetos\BoxMotion\CoreApp.Interfaces.BL\obj\Debug\CoreApp.Interfaces.BL.dll
+C:\Projetos\BoxMotion\CoreApp.Interfaces.BL\obj\Debug\CoreApp.Interfaces.BL.pdb
+C:\Repositorios\mvp-app\CoreApp.Interfaces.BL\bin\Debug\CoreApp.Interfaces.BL.dll
+C:\Repositorios\mvp-app\CoreApp.Interfaces.BL\bin\Debug\CoreApp.Interfaces.BL.pdb
+C:\Repositorios\mvp-app\CoreApp.Interfaces.BL\bin\Debug\CoreApp.Data.Entities.dll
+C:\Repositorios\mvp-app\CoreApp.Interfaces.BL\bin\Debug\EntityFramework.dll
+C:\Repositorios\mvp-app\CoreApp.Interfaces.BL\bin\Debug\CoreApp.Data.Entities.pdb
+C:\Repositorios\mvp-app\CoreApp.Interfaces.BL\bin\Debug\EntityFramework.xml
+C:\Repositorios\mvp-app\CoreApp.Interfaces.BL\obj\Debug\CoreApp.Interfaces.BL.csprojResolveAssemblyReference.cache
+C:\Repositorios\mvp-app\CoreApp.Interfaces.BL\obj\Debug\CoreApp.Interfaces.BL.dll
+C:\Repositorios\mvp-app\CoreApp.Interfaces.BL\obj\Debug\CoreApp.Interfaces.BL.pdb
+C:\Repositorios\mvp-app\CoreApp.Interfaces.BL\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Repositorios\mvp-app\CoreApp.Interfaces.BL\bin\Debug\MySql.Data.dll
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Interfaces.BL\bin\Debug\CoreApp.Interfaces.BL.dll
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Interfaces.BL\bin\Debug\CoreApp.Interfaces.BL.pdb
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Interfaces.BL\bin\Debug\CoreApp.Data.Entities.dll
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Interfaces.BL\bin\Debug\EntityFramework.dll
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Interfaces.BL\bin\Debug\CoreApp.Data.Entities.pdb
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Interfaces.BL\bin\Debug\EntityFramework.xml
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Interfaces.BL\obj\Debug\CoreApp.Interfaces.BL.csprojResolveAssemblyReference.cache
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Interfaces.BL\obj\Debug\CoreApp.Interfaces.BL.dll
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Interfaces.BL\obj\Debug\CoreApp.Interfaces.BL.pdb
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Interfaces.BL\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Interfaces.BL\bin\Debug\MySql.Data.dll
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Interfaces.BL\bin\Debug\CoreApp.Interfaces.BL.dll
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Interfaces.BL\bin\Debug\CoreApp.Interfaces.BL.pdb
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Interfaces.BL\bin\Debug\CoreApp.Data.Entities.dll
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Interfaces.BL\bin\Debug\EntityFramework.dll
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Interfaces.BL\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Interfaces.BL\bin\Debug\MySql.Data.dll
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Interfaces.BL\bin\Debug\CoreApp.Data.Entities.pdb
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Interfaces.BL\bin\Debug\EntityFramework.xml
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Interfaces.BL\obj\Debug\CoreApp.Interfaces.BL.csprojResolveAssemblyReference.cache
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Interfaces.BL\obj\Debug\CoreApp.Interfaces.BL.dll
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Interfaces.BL\obj\Debug\CoreApp.Interfaces.BL.pdb

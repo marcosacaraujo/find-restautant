@@ -1,0 +1,45 @@
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.BL\obj\Debug\CoreApp.Infrastructure.BL.csprojResolveAssemblyReference.cache
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.BL\bin\Debug\CoreApp.Infrastructure.BL.dll
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.BL\bin\Debug\CoreApp.Infrastructure.BL.pdb
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.BL\bin\Debug\CoreApp.Data.Entities.dll
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.BL\bin\Debug\CoreApp.Interfaces.BL.dll
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.BL\bin\Debug\CoreApp.Interfaces.Data.dll
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.BL\bin\Debug\EntityFramework.dll
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.BL\bin\Debug\CoreApp.Data.Entities.pdb
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.BL\bin\Debug\CoreApp.Interfaces.BL.pdb
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.BL\bin\Debug\CoreApp.Interfaces.Data.pdb
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.BL\bin\Debug\EntityFramework.xml
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.BL\obj\Debug\CoreApp.Infrastructure.BL.dll
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.BL\obj\Debug\CoreApp.Infrastructure.BL.pdb
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.BL\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Repositorios\mvp-app\CoreApp.Infrastructure.BL\bin\Debug\MySql.Data.dll
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Infrastructure.BL\bin\Debug\CoreApp.Infrastructure.BL.dll
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Infrastructure.BL\bin\Debug\CoreApp.Infrastructure.BL.pdb
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Infrastructure.BL\bin\Debug\CoreApp.Data.Entities.dll
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Infrastructure.BL\bin\Debug\CoreApp.Interfaces.BL.dll
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Infrastructure.BL\bin\Debug\CoreApp.Interfaces.Data.dll
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Infrastructure.BL\bin\Debug\EntityFramework.dll
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Infrastructure.BL\bin\Debug\CoreApp.Data.Entities.pdb
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Infrastructure.BL\bin\Debug\CoreApp.Interfaces.BL.pdb
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Infrastructure.BL\bin\Debug\CoreApp.Interfaces.Data.pdb
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Infrastructure.BL\bin\Debug\EntityFramework.xml
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Infrastructure.BL\obj\Debug\CoreApp.Infrastructure.BL.csprojResolveAssemblyReference.cache
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Infrastructure.BL\obj\Debug\CoreApp.Infrastructure.BL.dll
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Infrastructure.BL\obj\Debug\CoreApp.Infrastructure.BL.pdb
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Infrastructure.BL\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Infrastructure.BL\bin\Debug\MySql.Data.dll
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Infrastructure.BL\bin\Debug\CoreApp.Infrastructure.BL.dll
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Infrastructure.BL\bin\Debug\CoreApp.Infrastructure.BL.pdb
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Infrastructure.BL\bin\Debug\CoreApp.Data.Entities.dll
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Infrastructure.BL\bin\Debug\CoreApp.Interfaces.BL.dll
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Infrastructure.BL\bin\Debug\CoreApp.Interfaces.Data.dll
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Infrastructure.BL\bin\Debug\EntityFramework.dll
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Infrastructure.BL\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Infrastructure.BL\bin\Debug\MySql.Data.dll
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Infrastructure.BL\bin\Debug\CoreApp.Data.Entities.pdb
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Infrastructure.BL\bin\Debug\CoreApp.Interfaces.BL.pdb
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Infrastructure.BL\bin\Debug\CoreApp.Interfaces.Data.pdb
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Infrastructure.BL\bin\Debug\EntityFramework.xml
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Infrastructure.BL\obj\Debug\CoreApp.Infrastructure.BL.csprojResolveAssemblyReference.cache
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Infrastructure.BL\obj\Debug\CoreApp.Infrastructure.BL.dll
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Infrastructure.BL\obj\Debug\CoreApp.Infrastructure.BL.pdb

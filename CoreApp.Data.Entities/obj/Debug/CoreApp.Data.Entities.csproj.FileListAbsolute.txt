@@ -1,0 +1,71 @@
+C:\Marcos\Estudos\AplicationBase\Seed.Data.Entities\bin\Debug\CoreApp.Data.Entities.dll.config
+C:\Marcos\Estudos\AplicationBase\Seed.Data.Entities\bin\Debug\CoreApp.Data.Entities.dll
+C:\Marcos\Estudos\AplicationBase\Seed.Data.Entities\bin\Debug\CoreApp.Data.Entities.pdb
+C:\Marcos\Estudos\AplicationBase\Seed.Data.Entities\bin\Debug\EntityFramework.dll
+C:\Marcos\Estudos\AplicationBase\Seed.Data.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Marcos\Estudos\AplicationBase\Seed.Data.Entities\bin\Debug\EntityFramework.xml
+C:\Marcos\Estudos\AplicationBase\Seed.Data.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Marcos\Estudos\AplicationBase\Seed.Data.Entities\obj\Debug\CoreApp.Data.Entities.dll
+C:\Marcos\Estudos\AplicationBase\Seed.Data.Entities\obj\Debug\CoreApp.Data.Entities.pdb
+C:\Marcos\Estudos\AplicationBase\CoreApp.Data.Entities\bin\Debug\CoreApp.Data.Entities.dll.config
+C:\Marcos\Estudos\AplicationBase\CoreApp.Data.Entities\bin\Debug\CoreApp.Data.Entities.dll
+C:\Marcos\Estudos\AplicationBase\CoreApp.Data.Entities\bin\Debug\CoreApp.Data.Entities.pdb
+C:\Marcos\Estudos\AplicationBase\CoreApp.Data.Entities\bin\Debug\EntityFramework.dll
+C:\Marcos\Estudos\AplicationBase\CoreApp.Data.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Marcos\Estudos\AplicationBase\CoreApp.Data.Entities\bin\Debug\EntityFramework.xml
+C:\Marcos\Estudos\AplicationBase\CoreApp.Data.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Marcos\Estudos\AplicationBase\CoreApp.Data.Entities\obj\Debug\CoreApp.Data.Entities.dll
+C:\Marcos\Estudos\AplicationBase\CoreApp.Data.Entities\obj\Debug\CoreApp.Data.Entities.pdb
+C:\Marcos\Estudos\AplicationBase\CoreApp.Data.Entities\obj\Debug\CoreApp.Data.Entities.Migrations.Test.resources
+C:\Marcos\Estudos\AplicationBase\CoreApp.Data.Entities\obj\Debug\CoreApp.Data.Entities.csproj.GenerateResource.Cache
+C:\Projetos\BoxMotion\CoreApp.Data.Entities\bin\Debug\CoreApp.Data.Entities.dll.config
+C:\Projetos\BoxMotion\CoreApp.Data.Entities\bin\Debug\CoreApp.Data.Entities.dll
+C:\Projetos\BoxMotion\CoreApp.Data.Entities\bin\Debug\CoreApp.Data.Entities.pdb
+C:\Projetos\BoxMotion\CoreApp.Data.Entities\bin\Debug\EntityFramework.dll
+C:\Projetos\BoxMotion\CoreApp.Data.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos\BoxMotion\CoreApp.Data.Entities\bin\Debug\MySql.Data.dll
+C:\Projetos\BoxMotion\CoreApp.Data.Entities\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Projetos\BoxMotion\CoreApp.Data.Entities\bin\Debug\System.Data.Common.dll
+C:\Projetos\BoxMotion\CoreApp.Data.Entities\bin\Debug\EntityFramework.xml
+C:\Projetos\BoxMotion\CoreApp.Data.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos\BoxMotion\CoreApp.Data.Entities\obj\Debug\CoreApp.Data.Entities.Migrations.InitialMigration.resources
+C:\Projetos\BoxMotion\CoreApp.Data.Entities\obj\Debug\CoreApp.Data.Entities.csproj.GenerateResource.Cache
+C:\Projetos\BoxMotion\CoreApp.Data.Entities\obj\Debug\CoreApp.Data.Entities.dll
+C:\Projetos\BoxMotion\CoreApp.Data.Entities\obj\Debug\CoreApp.Data.Entities.pdb
+C:\Projetos\BoxMotion\CoreApp.Data.Entities\obj\Debug\CoreApp.Data.Entities.csprojResolveAssemblyReference.cache
+C:\Repositorios\mvp-app\CoreApp.Data.Entities\bin\Debug\CoreApp.Data.Entities.dll
+C:\Repositorios\mvp-app\CoreApp.Data.Entities\bin\Debug\CoreApp.Data.Entities.pdb
+C:\Repositorios\mvp-app\CoreApp.Data.Entities\bin\Debug\EntityFramework.dll
+C:\Repositorios\mvp-app\CoreApp.Data.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Repositorios\mvp-app\CoreApp.Data.Entities\bin\Debug\MySql.Data.dll
+C:\Repositorios\mvp-app\CoreApp.Data.Entities\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Repositorios\mvp-app\CoreApp.Data.Entities\bin\Debug\System.Data.Common.dll
+C:\Repositorios\mvp-app\CoreApp.Data.Entities\bin\Debug\EntityFramework.xml
+C:\Repositorios\mvp-app\CoreApp.Data.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Repositorios\mvp-app\CoreApp.Data.Entities\obj\Debug\CoreApp.Data.Entities.dll
+C:\Repositorios\mvp-app\CoreApp.Data.Entities\obj\Debug\CoreApp.Data.Entities.pdb
+C:\Repositorios\mvp-app\CoreApp.Data.Entities\obj\Debug\CoreApp.Data.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Data.Entities\bin\Debug\CoreApp.Data.Entities.dll
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Data.Entities\bin\Debug\CoreApp.Data.Entities.pdb
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Data.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Data.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Data.Entities\bin\Debug\MySql.Data.dll
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Data.Entities\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Data.Entities\bin\Debug\System.Data.Common.dll
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Data.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Data.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Data.Entities\obj\Debug\CoreApp.Data.Entities.dll
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Data.Entities\obj\Debug\CoreApp.Data.Entities.pdb
+C:\Users\Marcos Araújo\Desktop\meu-ponto\CoreApp.Data.Entities\obj\Debug\CoreApp.Data.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Data.Entities\bin\Debug\CoreApp.Data.Entities.dll
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Data.Entities\bin\Debug\CoreApp.Data.Entities.pdb
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Data.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Data.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Data.Entities\bin\Debug\MySql.Data.dll
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Data.Entities\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Data.Entities\bin\Debug\System.Data.Common.dll
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Data.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Data.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Data.Entities\obj\Debug\CoreApp.Data.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Data.Entities\obj\Debug\CoreApp.Data.Entities.dll
+C:\Users\Marcos Araújo\Desktop\Git\CoreApp.Data.Entities\obj\Debug\CoreApp.Data.Entities.pdb
